@@ -7,3 +7,5 @@ a) There is a need of navbar
 b) Search icon in search bar
 c) Mic icon in search bar
 d) Responsive website build
+
+Live Demo link : https://ritesh29-web.github.io/google-homepage/
