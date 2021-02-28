@@ -8,4 +8,4 @@ b) Search icon in search bar
 c) Mic icon in search bar
 d) Responsive website build
 
-Live Demo link : https://ritesh29-web.github.io/google-homepage/
+Live Demo link : https://the-lone-coder.github.io/google-homepage/
